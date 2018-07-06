@@ -11,3 +11,5 @@ The following files are from VSCode 1.16:
 - `/Applications/Visual Studio Code.app/Contents/Resources/app/resources/letterpress.svg`
 
 > Acknowledgement: `Code2.icns` was created by **@1|0** ([here](https://github.com/1l0/logo/tree/master/vscode)). Thanks!
+
+Update: a nice script to change any file or directory's icon programmatically: [fileicon](https://github.com/mklement0/fileicon).
